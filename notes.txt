@@ -1,0 +1,20 @@
+create virtual enviroment in vs code
+ py -m venv C:\Users\ayush\OneDrive\Desktop\flask\venv
+
+to activate enviroment
+	.\venv\Scripts\activate.ps1
+
+
+install these libary
+		pip install numpy
+		pip install pandas
+		pip install flask
+		pip install scikit-learn
+		pip install xgboost
+
+run flask app
+python -m flask run
+
+
+
+
